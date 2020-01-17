@@ -1,4 +1,4 @@
-package steam.steam_1;
+package SteamStudy.steam_1;
 
 import java.util.ArrayList;
 import java.util.Arrays;

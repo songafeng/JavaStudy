@@ -1,4 +1,4 @@
-package steam.steam_3;
+package SteamStudy.steam_3;
 
 
 import java.math.BigDecimal;

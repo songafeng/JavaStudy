@@ -1,4 +1,4 @@
-package steam.steam_2;
+package SteamStudy.steam_2;
 
 import java.math.BigDecimal;
 import java.util.ArrayList;

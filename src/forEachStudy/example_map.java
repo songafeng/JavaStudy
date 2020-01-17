@@ -1,4 +1,4 @@
-package yufa_forEach;
+package forEachStudy;
 
 import java.util.HashMap;
 import java.util.Map;
