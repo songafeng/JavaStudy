@@ -1,3 +1,5 @@
+package yufa_forEach;
+
 import java.util.Arrays;
 import java.util.List;
 
